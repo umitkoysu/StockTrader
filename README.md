@@ -10,6 +10,7 @@ StockTrader is an arbitrarily trading game developed by a startup in a very shor
 ```bash
 git clone https://github.com/umitkoysu/StockTrader.git
 cd StockTrader
+cd src
 ```
 
 ```bash
@@ -58,5 +59,7 @@ You should see the following information in the console
 * Postman
 * Express-query-parser
 * Http-status
+
+
 
 > I included the log files for review.

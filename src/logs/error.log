@@ -22,3 +22,145 @@
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
     at async exports.sellStock (D:\CodeLab\NodeJS\EvaInterviewProject\controllers\portfolio.stock.controller.js:21:20)
 
+2022-02-28T01:57:13.882Z: error 
+
+ Name: MailOrUsernameAlreadyExist
+ Message: Mail or username already exists. Please check.
+ Stack: MailOrUsernameAlreadyExist: Mail or username already exists. Please check.
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at UserService.update (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\users\user.service.js:73:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.update (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\user.controller.js:21:20)
+
+2022-02-28T01:57:14.195Z: error 
+
+ Name: IncorrectPassword
+ Message: Incorrect password. Login failed
+ Stack: IncorrectPassword: Incorrect password. Login failed
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at UserService.changePassword (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\users\user.service.js:136:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.changePassword (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\user.controller.js:31:20)
+
+2022-02-28T01:59:07.518Z: error 
+
+ Name: MailOrUsernameAlreadyExist
+ Message: Mail or username already exists. Please check.
+ Stack: MailOrUsernameAlreadyExist: Mail or username already exists. Please check.
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at UserService.create (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\users\user.service.js:56:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.create (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\user.controller.js:16:20)
+
+2022-02-28T01:59:07.860Z: error 
+
+ Name: IncorrectPassword
+ Message: Incorrect password. Login failed
+ Stack: IncorrectPassword: Incorrect password. Login failed
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at UserService.changePassword (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\users\user.service.js:136:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.changePassword (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\user.controller.js:31:20)
+
+2022-02-28T01:59:19.720Z: error 
+
+ Name: MailOrUsernameAlreadyExist
+ Message: Mail or username already exists. Please check.
+ Stack: MailOrUsernameAlreadyExist: Mail or username already exists. Please check.
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at UserService.create (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\users\user.service.js:56:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.create (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\user.controller.js:16:20)
+
+2022-02-28T02:04:59.760Z: error 
+
+ Name: NotFound
+ Message: Data could not be found
+ Stack: NotFound: Data could not be found
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at Function.checkReturnModelValue (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\process\process.check.manager.js:16:13)
+    at StockService.updatePrice (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\stocks\stock.service.js:127:29)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.updatePrice (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\stock.controller.js:31:20)
+
+2022-02-28T02:05:26.435Z: error 
+
+ Name: StockPriceUpdateLimit
+ Message: Stock price update limit is reached.The stock only one time per hour updated. Please try again later.
+ Stack: StockPriceUpdateLimit: Stock price update limit is reached.The stock only one time per hour updated. Please try again later.
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at StockService.updatePrice (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\stocks\stock.service.js:134:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.updatePrice (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\stock.controller.js:31:20)
+
+2022-02-28T02:05:52.733Z: error 
+
+ Name: NotFound
+ Message: Data could not be found
+ Stack: NotFound: Data could not be found
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at Function.checkReturnModelList (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\process\process.check.manager.js:23:13)
+    at StockTransactionService.getList (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\stocktransactions\stock.transaction.service.js:30:29)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.getList (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\stock.transaction.controller.js:7:20)
+
+2022-02-28T02:15:33.469Z: error 
+
+ Name: NotFound
+ Message: Data could not be found
+ Stack: NotFound: Data could not be found
+    at throwCustomException (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\exception\exception.builder.js:5:11)
+    at Function.checkReturnModelValue (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\utils\process\process.check.manager.js:16:13)
+    at PortfolioStockService.getById (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\portfoliostocks\portfolio.stock.service.js:38:29)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async PortfolioStockService.sellStock (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\services\portfoliostocks\portfolio.stock.service.js:212:16)
+    at async exports.sellStock (D:\CodeLab\NodeJS\StockTrader\StockTrader\src\controllers\portfolio.stock.controller.js:21:20)
+
+2022-02-28T02:19:59.748Z: error 
+
+ Name: undefined
+ Message: Database Connection: Failed
+ Stack: undefined
+
+2022-02-28T02:19:59.750Z: error 
+
+ Name: SequelizeHostNotFoundError
+ Message: undefined
+ Stack: undefined
+
+2022-02-28T02:19:59.756Z: error 
+
+ Name: undefined
+ Message: Database Migration: Failed
+ Stack: undefined
+
+2022-02-28T02:19:59.757Z: error 
+
+ Name: SequelizeHostNotFoundError
+ Message: undefined
+ Stack: undefined
+
+2022-02-28T02:21:37.960Z: error 
+
+ Name: undefined
+ Message: Database Connection: Failed
+ Stack: undefined
+
+2022-02-28T02:21:37.962Z: error 
+
+ Name: SequelizeHostNotFoundError
+ Message: undefined
+ Stack: undefined
+
+2022-02-28T02:21:37.967Z: error 
+
+ Name: undefined
+ Message: Database Migration: Failed
+ Stack: undefined
+
+2022-02-28T02:21:37.969Z: error 
+
+ Name: SequelizeHostNotFoundError
+ Message: undefined
+ Stack: undefined
+

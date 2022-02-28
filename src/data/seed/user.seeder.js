@@ -1,4 +1,5 @@
 const {User} = require('../models/user');
+const Crypto = require("../../utils/crypto/crypto")
 
 const seed = {
     data:[
@@ -51,6 +52,10 @@ const seed = {
 }
 
 async function userSeeder(){
+
+    for(let u in seed.data){
+        seed.data[u].password = await Crypto.hashGenerateAsync(seed.data[u].password);
+    }
 
     if(!await User.findOne({where:{userName:seed.data[0].userName}})){
        return result = await User.bulkCreate(seed.data);

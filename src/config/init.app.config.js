@@ -13,6 +13,9 @@ const initialize = async () =>{
     //App error message language 
     global.ERROR_LANG = process.env.ERROR_LANG;
 
+    //Load seed data
+    global.SEED_DATA = process.env.SEED_DATA === "true";
+
     //App maintenance mode 
     global.MAINTENANCE_MODE = process.env.MAINTENANCE_MODE === "true";
 

@@ -1,0 +1,194 @@
+2022-02-28T01:54:58.879Z info : Database Connection: Success 
+
+2022-02-28T01:54:58.974Z info : Database Migration: Success 
+
+2022-02-28T01:54:59.126Z info : Dev Mode: true 
+
+2022-02-28T01:54:59.126Z info : Error Message Language: en 
+
+2022-02-28T01:54:59.127Z info : Error File Log: true 
+
+2022-02-28T01:54:59.127Z info : Database Query File Log: true 
+
+2022-02-28T01:54:59.127Z info : Maintenance Mode: false 
+
+2022-02-28T01:54:59.128Z info : Database Migration Alter: false 
+
+2022-02-28T01:54:59.128Z info : Database Migration Force: false 
+
+2022-02-28T01:54:59.128Z info : Password Hash Salt: 10 
+
+2022-02-28T01:54:59.129Z warn : Server is running on port: 3000 
+
+2022-02-28T02:03:30.057Z info : Database Connection: Success 
+
+2022-02-28T02:03:30.338Z info : Database Migration: Success 
+
+2022-02-28T02:03:59.236Z info : Database Connection: Success 
+
+2022-02-28T02:03:59.512Z info : Database Migration: Success 
+
+2022-02-28T02:04:15.540Z info : Database Connection: Success 
+
+2022-02-28T02:04:15.812Z info : Database Migration: Success 
+
+2022-02-28T02:04:16.243Z info : Dev Mode: true 
+
+2022-02-28T02:04:16.244Z info : Error Message Language: en 
+
+2022-02-28T02:04:16.244Z info : Error File Log: true 
+
+2022-02-28T02:04:16.245Z info : Database Query File Log: true 
+
+2022-02-28T02:04:16.245Z info : Maintenance Mode: false 
+
+2022-02-28T02:04:16.246Z info : Database Migration Alter: true 
+
+2022-02-28T02:04:16.246Z info : Database Migration Force: true 
+
+2022-02-28T02:04:16.247Z info : Password Hash Salt: 10 
+
+2022-02-28T02:04:16.248Z warn : Server is running on port: 3000 
+
+2022-02-28T02:05:19.636Z info : Database Connection: Success 
+
+2022-02-28T02:05:19.908Z info : Database Migration: Success 
+
+2022-02-28T02:05:20.329Z info : Dev Mode: true 
+
+2022-02-28T02:05:20.329Z info : Error Message Language: en 
+
+2022-02-28T02:05:20.330Z info : Error File Log: true 
+
+2022-02-28T02:05:20.331Z info : Database Query File Log: true 
+
+2022-02-28T02:05:20.332Z info : Maintenance Mode: false 
+
+2022-02-28T02:05:20.332Z info : Database Migration Alter: true 
+
+2022-02-28T02:05:20.333Z info : Database Migration Force: true 
+
+2022-02-28T02:05:20.333Z info : Password Hash Salt: 10 
+
+2022-02-28T02:05:20.334Z warn : Server is running on port: 3000 
+
+2022-02-28T02:11:41.999Z info : Database Connection: Success 
+
+2022-02-28T02:11:42.277Z info : Database Migration: Success 
+
+2022-02-28T02:11:42.717Z info : Dev Mode: true 
+
+2022-02-28T02:11:42.718Z info : Error Message Language: en 
+
+2022-02-28T02:11:42.718Z info : Error File Log: true 
+
+2022-02-28T02:11:42.719Z info : Database Query File Log: true 
+
+2022-02-28T02:11:42.719Z info : Maintenance Mode: false 
+
+2022-02-28T02:11:42.720Z info : Database Migration Alter: true 
+
+2022-02-28T02:11:42.720Z info : Database Migration Force: true 
+
+2022-02-28T02:11:42.721Z info : Password Hash Salt: 10 
+
+2022-02-28T02:11:42.721Z warn : Server is running on port: 3000 
+
+2022-02-28T02:12:46.914Z info : Database Connection: Success 
+
+2022-02-28T02:12:47.184Z info : Database Migration: Success 
+
+2022-02-28T02:12:47.606Z info : Dev Mode: true 
+
+2022-02-28T02:12:47.607Z info : Error Message Language: en 
+
+2022-02-28T02:12:47.607Z info : Error File Log: true 
+
+2022-02-28T02:12:47.608Z info : Database Query File Log: true 
+
+2022-02-28T02:12:47.608Z info : Maintenance Mode: false 
+
+2022-02-28T02:12:47.608Z info : Database Migration Alter: true 
+
+2022-02-28T02:12:47.609Z info : Database Migration Force: true 
+
+2022-02-28T02:12:47.610Z info : Password Hash Salt: 10 
+
+2022-02-28T02:12:47.610Z warn : Server is running on port: 3000 
+
+2022-02-28T02:14:06.084Z info : Database Connection: Success 
+
+2022-02-28T02:14:06.364Z info : Database Migration: Success 
+
+2022-02-28T02:14:06.805Z info : Dev Mode: true 
+
+2022-02-28T02:14:06.805Z info : Error Message Language: en 
+
+2022-02-28T02:14:06.806Z info : Error File Log: true 
+
+2022-02-28T02:14:06.806Z info : Database Query File Log: true 
+
+2022-02-28T02:14:06.807Z info : Maintenance Mode: false 
+
+2022-02-28T02:14:06.807Z info : Database Migration Alter: true 
+
+2022-02-28T02:14:06.808Z info : Database Migration Force: true 
+
+2022-02-28T02:14:06.809Z info : Password Hash Salt: 10 
+
+2022-02-28T02:14:06.809Z warn : Server is running on port: 3000 
+
+2022-02-28T02:15:11.318Z info : Database Connection: Success 
+
+2022-02-28T02:15:11.634Z info : Database Migration: Success 
+
+2022-02-28T02:15:12.070Z info : Dev Mode: true 
+
+2022-02-28T02:15:12.070Z info : Error Message Language: en 
+
+2022-02-28T02:15:12.071Z info : Error File Log: true 
+
+2022-02-28T02:15:12.072Z info : Database Query File Log: true 
+
+2022-02-28T02:15:12.072Z info : Maintenance Mode: false 
+
+2022-02-28T02:15:12.073Z info : Database Migration Alter: true 
+
+2022-02-28T02:15:12.073Z info : Database Migration Force: true 
+
+2022-02-28T02:15:12.074Z info : Password Hash Salt: 10 
+
+2022-02-28T02:15:12.074Z warn : Server is running on port: 3000 
+
+2022-02-28T02:20:26.981Z info : Database Connection: Success 
+
+2022-02-28T02:20:27.016Z info : Database Migration: Success 
+
+2022-02-28T02:20:49.657Z info : Database Connection: Success 
+
+2022-02-28T02:20:49.690Z info : Database Migration: Success 
+
+2022-02-28T02:21:08.325Z info : Database Connection: Success 
+
+2022-02-28T02:21:08.361Z info : Database Migration: Success 
+
+2022-02-28T02:21:08.666Z info : Dev Mode: true 
+
+2022-02-28T02:21:08.667Z info : Error Message Language: en 
+
+2022-02-28T02:21:08.667Z info : Error File Log: true 
+
+2022-02-28T02:21:08.668Z info : Database Query File Log: true 
+
+2022-02-28T02:21:08.669Z info : Maintenance Mode: false 
+
+2022-02-28T02:21:08.669Z info : Database Migration Alter: false 
+
+2022-02-28T02:21:08.670Z info : Database Migration Force: false 
+
+2022-02-28T02:21:08.670Z info : Password Hash Salt: 10 
+
+2022-02-28T02:21:08.671Z info : Load Seed Data: true 
+
+2022-02-28T02:21:08.671Z warn : Server is running on port: 3000 
+

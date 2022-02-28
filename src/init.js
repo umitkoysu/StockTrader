@@ -6,7 +6,9 @@ const logger = require("./utils/logger/logger");
 const databaseInitializer = async () => {
     await checkConnection();
     await migration(global.DB_MIGRATION_ALTER, global.DB_MIGRATION_FORCE);
-    await seeder();
+
+    if (global.SEED_DATA) 
+        await seeder();
 }
 
 const configutationInfo = () => {
@@ -19,6 +21,7 @@ const configutationInfo = () => {
     logger.info(`Database Migration Alter: ${global.DB_MIGRATION_ALTER}`)
     logger.info(`Database Migration Force: ${global.DB_MIGRATION_FORCE}`)
     logger.info(`Password Hash Salt: ${global.SALT}`)
+    logger.info(`Load Seed Data: ${global.SEED_DATA}`)
     logger.warn(`Server is running on port: ${global.PORT}`)
 }
 
