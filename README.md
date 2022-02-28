@@ -49,6 +49,7 @@ You should see the following information in the console
 
 # Equipments
 * Express.js
+* Sequelize
 * Body-parser
 * Bcrypt
 * Cors
