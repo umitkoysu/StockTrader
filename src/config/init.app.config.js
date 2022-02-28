@@ -2,13 +2,18 @@ const dotenv = require("dotenv");
 const ErrorType = require("../utils/exception/error.type");
 dotenv.config();
 
-const initialize = async () =>{
+const initialize = async () => {
 
     //Server running on port
     global.PORT = process.env.PORT;
 
     //App runtime mode
     global.DEV_MODE = process.env.DEV_MODE === "true";
+
+    if (!gloval.DEV_MODE)
+        process.env.NODE_ENV = "production";
+    else
+        process.env.NODE_ENV = "development";
 
     //App error message language 
     global.ERROR_LANG = process.env.ERROR_LANG;
@@ -34,7 +39,7 @@ const initialize = async () =>{
 
     //Bcrypt salt for hashing
     global.SALT = process.env.SALT;
-    
+
     //Read ErrorType meta from localization json file and create instance of ErrorType
     global.ERROR_TYPE = await new ErrorType().createInstance();
 };
