@@ -1,0 +1,24 @@
+2022-02-28T00:05:33.732Z: error 
+
+ Name: ValidationError
+ Message: "value" must be of type object
+ Stack: ValidationError: "value" must be of type object
+
+2022-02-28T00:08:13.674Z: error 
+
+ Name: TypeError
+ Message: Cannot read properties of undefined (reading 'id')
+ Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at PortfolioStockService.sellStock (d:\CodeLab\NodeJS\EvaInterviewProject\services\portfoliostocks\portfolio.stock.service.js:212:61)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.sellStock (d:\CodeLab\NodeJS\EvaInterviewProject\controllers\portfolio.stock.controller.js:21:20)
+
+2022-02-28T00:08:29.882Z: error 
+
+ Name: TypeError
+ Message: Cannot read properties of undefined (reading 'id')
+ Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at PortfolioStockService.sellStock (D:\CodeLab\NodeJS\EvaInterviewProject\services\portfoliostocks\portfolio.stock.service.js:212:61)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async exports.sellStock (D:\CodeLab\NodeJS\EvaInterviewProject\controllers\portfolio.stock.controller.js:21:20)
+

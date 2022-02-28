@@ -1,0 +1,16 @@
+{
+    "DatabaseSaveError" : "Veri kayıt edilemedi.",
+    "DatabaseUpdateError" : "Veri güncellenemedi.",
+    "DatabaseDeleteError" :  "Veri silinemedi.",
+    "NotFound" : "Veri buluanamadı.",
+    "UseMail" : "Mail adresi kullanılıyor. Kayıt Başarısız",
+    "UseUsername" : "Kullanıcı adı kullanılıyor. Kayıt Başarısız",
+    "IncorrectPassword" : "Şifre yanlış. Giriş Başarısız",
+    "IncorrectMailOrUsername" : "Mail adresi veya kullanıcı adı yanlış. Giriş Başarısız",
+    "IncorrectId" : "Id bilgisi hatalıdır. Lütfen kontrol ediniz.",
+    "MailOrUsernameAlreadyExist":"E-posta veya kullanıcı adı zaten var. Lütfen kontrol edin.",
+    "StockPriceUpdateLimit" : "Hisse senedi fiyat güncelleme limitine ulaşıldı. Stok, saatte sadece bir kez güncellenir. Lütfen daha sonra tekrar deneyiniz.",
+    "StockNotEnough" : "Hisse senedi miktarı yeterli değil. Lütfen kontrol edin.",
+    "UserNotEnoughBalance" : "Kullanıcı bakiyesi satın almak için yeterli değil"
+
+}

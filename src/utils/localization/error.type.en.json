@@ -1,0 +1,15 @@
+{
+    "DatabaseSaveError" : "Data could not be saved.",
+    "DatabaseUpdateError" : "Data could not be updated.",
+    "DatabaseDeleteError" :  "Failed to delete data.",
+    "NotFound" : "Data could not be found",
+    "UseMail" : "Mail is in use. Registration failed.",
+    "UseUsername" : "Username is in use. Registration failed.",
+    "IncorrectPassword" : "Incorrect password. Login failed",
+    "IncorrectMailOrUsername" : "Incorrect username or mail. Login failed",
+    "IncorrectId" : "Id information is incorrect. Please check.",
+    "MailOrUsernameAlreadyExist" : "Mail or username already exists. Please check.",
+    "StockPriceUpdateLimit" : "Stock price update limit is reached.The stock only one time per hour updated. Please try again later.",
+    "StockNotEnough" : "Stock amount is not enough. Please check.",
+    "UserNotEnoughBalance" : "User balance is not enough for buying. Please check."
+}
